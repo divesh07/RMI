@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/masterclass-project.iml" filepath="$PROJECT_DIR$/.idea/modules/masterclass-project.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/masterclass-project.main.iml" filepath="$PROJECT_DIR$/.idea/modules/masterclass-project.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/masterclass-project.test.iml" filepath="$PROJECT_DIR$/.idea/modules/masterclass-project.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rmi-project.iml" filepath="$PROJECT_DIR$/.idea/modules/rmi-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rmi-project.main.iml" filepath="$PROJECT_DIR$/.idea/modules/rmi-project.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rmi-project.test.iml" filepath="$PROJECT_DIR$/.idea/modules/rmi-project.test.iml" />
     </modules>
   </component>
 </project>

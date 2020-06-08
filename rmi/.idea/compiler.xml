@@ -4,6 +4,8 @@
     <bytecodeTargetLevel>
       <module name="masterclass-project.main" target="1.8" />
       <module name="masterclass-project.test" target="1.8" />
+      <module name="rmi-project.main" target="1.8" />
+      <module name="rmi-project.test" target="1.8" />
       <module name="s3-project.main" target="1.8" />
       <module name="s3-project.test" target="1.8" />
       <module name="s3.main" target="1.8" />

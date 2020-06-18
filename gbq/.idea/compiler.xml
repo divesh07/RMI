@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="gbq-client.main" target="1.8" />
+      <module name="gbq-client.test" target="1.8" />
+      <module name="masterclass-project.main" target="1.8" />
+      <module name="masterclass-project.test" target="1.8" />
+      <module name="rmi-project.main" target="1.8" />
+      <module name="rmi-project.test" target="1.8" />
+      <module name="s3-project.main" target="1.8" />
+      <module name="s3-project.test" target="1.8" />
+      <module name="s3.main" target="1.8" />
+      <module name="s3.test" target="1.8" />
+      <module name="test-webapp.main" target="1.8" />
+      <module name="test-webapp.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

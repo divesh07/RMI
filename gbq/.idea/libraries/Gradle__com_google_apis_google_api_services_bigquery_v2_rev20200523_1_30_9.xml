@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.apis:google-api-services-bigquery:v2-rev20200523-1.30.9">
+    <CLASSES>
+      <root url="jar:///usr/local/Cellar/gradle/6.0.1/caches/modules-2/files-2.1/com.google.apis/google-api-services-bigquery/v2-rev20200523-1.30.9/df93279cac1b1f1a6085249a09ce59809123d477/google-api-services-bigquery-v2-rev20200523-1.30.9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar:///usr/local/Cellar/gradle/6.0.1/caches/modules-2/files-2.1/com.google.apis/google-api-services-bigquery/v2-rev20200523-1.30.9/1b0b5fa32b1c724a38cc66843c956eb682761ded/google-api-services-bigquery-v2-rev20200523-1.30.9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
